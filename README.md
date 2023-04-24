@@ -4,10 +4,6 @@ The Salary Prediction Web App is a project that aims to provide users with accur
 It is developed using machine learning algorithms that analyze job market data and salary trends to provide reliable salary predictions.
 
 
-### Install Streamlit on macOS:
+### Install Streamlit: https://docs.streamlit.io/library/get-started/installation
 
-1. Install Pipenv: python -m ensurepip --upgrade
-2. Install Xcode command line tools on macOS: xcode-select --install
-3. Install Streamlit in your environment: pip install streamlit
-4. Test that the installation worked: streamlit hello
-Streamlit's Hello app should appear in a new tab in your web browser!
+### Dataset: https://insights.stackoverflow.com/survey
